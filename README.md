@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm MD. SAZZAD AHSAN</h1>
-<h3 align="center">A passionate Computer Engineer From Bangladesh 
-  
+<h1 align="center">Hi, I'm MD. SAZZAD AHSAN</h1>
+<h3 align="center">A passionate Computer Engineer From Bangladesh </br>
   From circuit boards to computer languages, I know it all!</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-sazzad-ahsan" alt="md-sazzad-ahsan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  
+-------
 
 - 🔭 I’m currently working on **Result Processing System**
 
@@ -33,3 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-sazzad-ahsan&show_icons=true&locale=en&layout=compact" alt="md-sazzad-ahsan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-sazzad-ahsan&show_icons=true&locale=en" alt="md-sazzad-ahsan" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-sazzad-ahsan" alt="md-sazzad-ahsan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
