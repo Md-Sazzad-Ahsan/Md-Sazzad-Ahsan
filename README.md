@@ -12,7 +12,7 @@
 
 - 📝 I regularly post on Facebook [www.facebook.com/Ahsan.Himu.Star](www.facebook.com/Ahsan.Himu.Star)
 
-- 💬 Ask me about **HTML,CSS, TailwindCSS,UI/UX and Content Writing**
+- 💬 Ask me about **HTML,CSS, JavaScript, NextJs,TailwindCSS, MongoDB, and Content Writing**
 
 - 📫 How to reach me **ahsanhimuofficial@gmail.com**
 
