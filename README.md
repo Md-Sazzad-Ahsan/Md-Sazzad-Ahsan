@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Md-Sazzad-Ahsan](https://github.com/Md-Sazzad-Ahsan)
 
-- 📝 I regularly post on Facebook [www.facebook.com/Ahsan.Himu.Star](www.facebook.com/hello.ahsanhimu)
+- 📝 I regularly post on Facebook [www.facebook.com/Md. Sazzad Ahsan](www.facebook.com/hello.ahsanhimu)
 
 - 💬 Ask me about **HTML,CSS, JavaScript, NextJs,TailwindCSS, MongoDB, and Content Writing**
 
-- 📫 How to reach me **ahsanhimuofficial@gmail.com**
+- 📫 How to reach me **hello.ahsanhimu@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
