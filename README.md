@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Md-Sazzad-Ahsan](https://github.com/Md-Sazzad-Ahsan)
 
-- 📝 I regularly post on Facebook [www.facebook.com/Ahsan.Himu.Star](www.facebook.com/Ahsan.Himu.Star)
+- 📝 I regularly post on Facebook [www.facebook.com/Ahsan.Himu.Star](www.facebook.com/hello.ahsanhimu)
 
 - 💬 Ask me about **HTML,CSS, JavaScript, NextJs,TailwindCSS, MongoDB, and Content Writing**
 
